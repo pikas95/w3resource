@@ -1,0 +1,15 @@
+C:\AlexCoding\w3resource\Data Types\1. Program that takes three letters and displays them in reverse order\bin\Debug\net10.0\1. Program that takes three letters and displays them in reverse order.exe
+C:\AlexCoding\w3resource\Data Types\1. Program that takes three letters and displays them in reverse order\bin\Debug\net10.0\1. Program that takes three letters and displays them in reverse order.deps.json
+C:\AlexCoding\w3resource\Data Types\1. Program that takes three letters and displays them in reverse order\bin\Debug\net10.0\1. Program that takes three letters and displays them in reverse order.runtimeconfig.json
+C:\AlexCoding\w3resource\Data Types\1. Program that takes three letters and displays them in reverse order\bin\Debug\net10.0\1. Program that takes three letters and displays them in reverse order.dll
+C:\AlexCoding\w3resource\Data Types\1. Program that takes three letters and displays them in reverse order\bin\Debug\net10.0\1. Program that takes three letters and displays them in reverse order.pdb
+C:\AlexCoding\w3resource\Data Types\1. Program that takes three letters and displays them in reverse order\obj\Debug\net10.0\1. Program that takes three letters and displays them in reverse order.GeneratedMSBuildEditorConfig.editorconfig
+C:\AlexCoding\w3resource\Data Types\1. Program that takes three letters and displays them in reverse order\obj\Debug\net10.0\1. Program that takes three letters and displays them in reverse order.AssemblyInfoInputs.cache
+C:\AlexCoding\w3resource\Data Types\1. Program that takes three letters and displays them in reverse order\obj\Debug\net10.0\1. Program that takes three letters and displays them in reverse order.AssemblyInfo.cs
+C:\AlexCoding\w3resource\Data Types\1. Program that takes three letters and displays them in reverse order\obj\Debug\net10.0\1. Program that takes three letters and displays them in reverse order.csproj.CoreCompileInputs.cache
+C:\AlexCoding\w3resource\Data Types\1. Program that takes three letters and displays them in reverse order\obj\Debug\net10.0\1. Program that takes three letters and displays them in reverse order.sourcelink.json
+C:\AlexCoding\w3resource\Data Types\1. Program that takes three letters and displays them in reverse order\obj\Debug\net10.0\1. Program that takes three letters and displays them in reverse order.dll
+C:\AlexCoding\w3resource\Data Types\1. Program that takes three letters and displays them in reverse order\obj\Debug\net10.0\refint\1. Program that takes three letters and displays them in reverse order.dll
+C:\AlexCoding\w3resource\Data Types\1. Program that takes three letters and displays them in reverse order\obj\Debug\net10.0\1. Program that takes three letters and displays them in reverse order.pdb
+C:\AlexCoding\w3resource\Data Types\1. Program that takes three letters and displays them in reverse order\obj\Debug\net10.0\1. Program that takes three letters and displays them in reverse order.genruntimeconfig.cache
+C:\AlexCoding\w3resource\Data Types\1. Program that takes three letters and displays them in reverse order\obj\Debug\net10.0\ref\1. Program that takes three letters and displays them in reverse order.dll

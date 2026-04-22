@@ -1,0 +1,15 @@
+C:\AlexCoding\w3resource\Data Types\3. 3 attempt log in program\obj\Debug\net10.0\3. 3 attempt log in program.GeneratedMSBuildEditorConfig.editorconfig
+C:\AlexCoding\w3resource\Data Types\3. 3 attempt log in program\obj\Debug\net10.0\3. 3 attempt log in program.AssemblyInfoInputs.cache
+C:\AlexCoding\w3resource\Data Types\3. 3 attempt log in program\obj\Debug\net10.0\3. 3 attempt log in program.AssemblyInfo.cs
+C:\AlexCoding\w3resource\Data Types\3. 3 attempt log in program\obj\Debug\net10.0\3. 3 attempt log in program.csproj.CoreCompileInputs.cache
+C:\AlexCoding\w3resource\Data Types\3. 3 attempt log in program\obj\Debug\net10.0\3. 3 attempt log in program.sourcelink.json
+C:\AlexCoding\w3resource\Data Types\3. 3 attempt log in program\bin\Debug\net10.0\3. 3 attempt log in program.exe
+C:\AlexCoding\w3resource\Data Types\3. 3 attempt log in program\bin\Debug\net10.0\3. 3 attempt log in program.deps.json
+C:\AlexCoding\w3resource\Data Types\3. 3 attempt log in program\bin\Debug\net10.0\3. 3 attempt log in program.runtimeconfig.json
+C:\AlexCoding\w3resource\Data Types\3. 3 attempt log in program\bin\Debug\net10.0\3. 3 attempt log in program.dll
+C:\AlexCoding\w3resource\Data Types\3. 3 attempt log in program\bin\Debug\net10.0\3. 3 attempt log in program.pdb
+C:\AlexCoding\w3resource\Data Types\3. 3 attempt log in program\obj\Debug\net10.0\3. 3 attempt log in program.dll
+C:\AlexCoding\w3resource\Data Types\3. 3 attempt log in program\obj\Debug\net10.0\refint\3. 3 attempt log in program.dll
+C:\AlexCoding\w3resource\Data Types\3. 3 attempt log in program\obj\Debug\net10.0\3. 3 attempt log in program.pdb
+C:\AlexCoding\w3resource\Data Types\3. 3 attempt log in program\obj\Debug\net10.0\3. 3 attempt log in program.genruntimeconfig.cache
+C:\AlexCoding\w3resource\Data Types\3. 3 attempt log in program\obj\Debug\net10.0\ref\3. 3 attempt log in program.dll

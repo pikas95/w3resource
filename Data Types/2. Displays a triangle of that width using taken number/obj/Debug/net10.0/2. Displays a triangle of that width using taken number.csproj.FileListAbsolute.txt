@@ -1,0 +1,15 @@
+C:\AlexCoding\w3resource\Data Types\2. Displays a triangle of that width using taken number\bin\Debug\net10.0\2. Displays a triangle of that width using taken number.exe
+C:\AlexCoding\w3resource\Data Types\2. Displays a triangle of that width using taken number\bin\Debug\net10.0\2. Displays a triangle of that width using taken number.deps.json
+C:\AlexCoding\w3resource\Data Types\2. Displays a triangle of that width using taken number\bin\Debug\net10.0\2. Displays a triangle of that width using taken number.runtimeconfig.json
+C:\AlexCoding\w3resource\Data Types\2. Displays a triangle of that width using taken number\bin\Debug\net10.0\2. Displays a triangle of that width using taken number.dll
+C:\AlexCoding\w3resource\Data Types\2. Displays a triangle of that width using taken number\bin\Debug\net10.0\2. Displays a triangle of that width using taken number.pdb
+C:\AlexCoding\w3resource\Data Types\2. Displays a triangle of that width using taken number\obj\Debug\net10.0\2. Displays a triangle of that width using taken number.GeneratedMSBuildEditorConfig.editorconfig
+C:\AlexCoding\w3resource\Data Types\2. Displays a triangle of that width using taken number\obj\Debug\net10.0\2. Displays a triangle of that width using taken number.AssemblyInfoInputs.cache
+C:\AlexCoding\w3resource\Data Types\2. Displays a triangle of that width using taken number\obj\Debug\net10.0\2. Displays a triangle of that width using taken number.AssemblyInfo.cs
+C:\AlexCoding\w3resource\Data Types\2. Displays a triangle of that width using taken number\obj\Debug\net10.0\2. Displays a triangle of that width using taken number.csproj.CoreCompileInputs.cache
+C:\AlexCoding\w3resource\Data Types\2. Displays a triangle of that width using taken number\obj\Debug\net10.0\2. Displays a triangle of that width using taken number.sourcelink.json
+C:\AlexCoding\w3resource\Data Types\2. Displays a triangle of that width using taken number\obj\Debug\net10.0\2. Displays a triangle of that width using taken number.dll
+C:\AlexCoding\w3resource\Data Types\2. Displays a triangle of that width using taken number\obj\Debug\net10.0\refint\2. Displays a triangle of that width using taken number.dll
+C:\AlexCoding\w3resource\Data Types\2. Displays a triangle of that width using taken number\obj\Debug\net10.0\2. Displays a triangle of that width using taken number.pdb
+C:\AlexCoding\w3resource\Data Types\2. Displays a triangle of that width using taken number\obj\Debug\net10.0\2. Displays a triangle of that width using taken number.genruntimeconfig.cache
+C:\AlexCoding\w3resource\Data Types\2. Displays a triangle of that width using taken number\obj\Debug\net10.0\ref\2. Displays a triangle of that width using taken number.dll
