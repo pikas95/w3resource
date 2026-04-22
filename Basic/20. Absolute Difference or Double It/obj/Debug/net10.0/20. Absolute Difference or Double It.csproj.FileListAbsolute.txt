@@ -1,0 +1,14 @@
+C:\AlexCoding\w3resource\Basic\20. Absolute Difference or Double It\bin\Debug\net10.0\20. Absolute Difference or Double It.exe
+C:\AlexCoding\w3resource\Basic\20. Absolute Difference or Double It\bin\Debug\net10.0\20. Absolute Difference or Double It.deps.json
+C:\AlexCoding\w3resource\Basic\20. Absolute Difference or Double It\bin\Debug\net10.0\20. Absolute Difference or Double It.runtimeconfig.json
+C:\AlexCoding\w3resource\Basic\20. Absolute Difference or Double It\bin\Debug\net10.0\20. Absolute Difference or Double It.dll
+C:\AlexCoding\w3resource\Basic\20. Absolute Difference or Double It\bin\Debug\net10.0\20. Absolute Difference or Double It.pdb
+C:\AlexCoding\w3resource\Basic\20. Absolute Difference or Double It\obj\Debug\net10.0\20. Absolute Difference or Double It.GeneratedMSBuildEditorConfig.editorconfig
+C:\AlexCoding\w3resource\Basic\20. Absolute Difference or Double It\obj\Debug\net10.0\20. Absolute Difference or Double It.AssemblyInfoInputs.cache
+C:\AlexCoding\w3resource\Basic\20. Absolute Difference or Double It\obj\Debug\net10.0\20. Absolute Difference or Double It.AssemblyInfo.cs
+C:\AlexCoding\w3resource\Basic\20. Absolute Difference or Double It\obj\Debug\net10.0\20. Absolute Difference or Double It.csproj.CoreCompileInputs.cache
+C:\AlexCoding\w3resource\Basic\20. Absolute Difference or Double It\obj\Debug\net10.0\20. Absolute Difference or Double It.dll
+C:\AlexCoding\w3resource\Basic\20. Absolute Difference or Double It\obj\Debug\net10.0\refint\20. Absolute Difference or Double It.dll
+C:\AlexCoding\w3resource\Basic\20. Absolute Difference or Double It\obj\Debug\net10.0\20. Absolute Difference or Double It.pdb
+C:\AlexCoding\w3resource\Basic\20. Absolute Difference or Double It\obj\Debug\net10.0\20. Absolute Difference or Double It.genruntimeconfig.cache
+C:\AlexCoding\w3resource\Basic\20. Absolute Difference or Double It\obj\Debug\net10.0\ref\20. Absolute Difference or Double It.dll

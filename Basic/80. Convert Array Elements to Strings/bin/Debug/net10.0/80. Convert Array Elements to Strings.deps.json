@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "80. Convert Array Elements to Strings/1.0.0": {
+        "runtime": {
+          "80. Convert Array Elements to Strings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "80. Convert Array Elements to Strings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

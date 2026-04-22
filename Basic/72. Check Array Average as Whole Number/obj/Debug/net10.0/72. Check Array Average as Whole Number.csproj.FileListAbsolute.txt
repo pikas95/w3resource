@@ -1,0 +1,14 @@
+C:\AlexCoding\w3resource\Basic\72. Check Array Average as Whole Number\bin\Debug\net10.0\72. Check Array Average as Whole Number.exe
+C:\AlexCoding\w3resource\Basic\72. Check Array Average as Whole Number\bin\Debug\net10.0\72. Check Array Average as Whole Number.deps.json
+C:\AlexCoding\w3resource\Basic\72. Check Array Average as Whole Number\bin\Debug\net10.0\72. Check Array Average as Whole Number.runtimeconfig.json
+C:\AlexCoding\w3resource\Basic\72. Check Array Average as Whole Number\bin\Debug\net10.0\72. Check Array Average as Whole Number.dll
+C:\AlexCoding\w3resource\Basic\72. Check Array Average as Whole Number\bin\Debug\net10.0\72. Check Array Average as Whole Number.pdb
+C:\AlexCoding\w3resource\Basic\72. Check Array Average as Whole Number\obj\Debug\net10.0\72. Check Array Average as Whole Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\AlexCoding\w3resource\Basic\72. Check Array Average as Whole Number\obj\Debug\net10.0\72. Check Array Average as Whole Number.AssemblyInfoInputs.cache
+C:\AlexCoding\w3resource\Basic\72. Check Array Average as Whole Number\obj\Debug\net10.0\72. Check Array Average as Whole Number.AssemblyInfo.cs
+C:\AlexCoding\w3resource\Basic\72. Check Array Average as Whole Number\obj\Debug\net10.0\72. Check Array Average as Whole Number.csproj.CoreCompileInputs.cache
+C:\AlexCoding\w3resource\Basic\72. Check Array Average as Whole Number\obj\Debug\net10.0\72. Check Array Average as Whole Number.dll
+C:\AlexCoding\w3resource\Basic\72. Check Array Average as Whole Number\obj\Debug\net10.0\refint\72. Check Array Average as Whole Number.dll
+C:\AlexCoding\w3resource\Basic\72. Check Array Average as Whole Number\obj\Debug\net10.0\72. Check Array Average as Whole Number.pdb
+C:\AlexCoding\w3resource\Basic\72. Check Array Average as Whole Number\obj\Debug\net10.0\72. Check Array Average as Whole Number.genruntimeconfig.cache
+C:\AlexCoding\w3resource\Basic\72. Check Array Average as Whole Number\obj\Debug\net10.0\ref\72. Check Array Average as Whole Number.dll

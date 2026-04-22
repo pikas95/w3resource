@@ -1,0 +1,14 @@
+C:\AlexCoding\w3resource\Basic\15. Remove Character by Index\bin\Debug\net10.0\15. Remove Character by Index.exe
+C:\AlexCoding\w3resource\Basic\15. Remove Character by Index\bin\Debug\net10.0\15. Remove Character by Index.deps.json
+C:\AlexCoding\w3resource\Basic\15. Remove Character by Index\bin\Debug\net10.0\15. Remove Character by Index.runtimeconfig.json
+C:\AlexCoding\w3resource\Basic\15. Remove Character by Index\bin\Debug\net10.0\15. Remove Character by Index.dll
+C:\AlexCoding\w3resource\Basic\15. Remove Character by Index\bin\Debug\net10.0\15. Remove Character by Index.pdb
+C:\AlexCoding\w3resource\Basic\15. Remove Character by Index\obj\Debug\net10.0\15. Remove Character by Index.GeneratedMSBuildEditorConfig.editorconfig
+C:\AlexCoding\w3resource\Basic\15. Remove Character by Index\obj\Debug\net10.0\15. Remove Character by Index.AssemblyInfoInputs.cache
+C:\AlexCoding\w3resource\Basic\15. Remove Character by Index\obj\Debug\net10.0\15. Remove Character by Index.AssemblyInfo.cs
+C:\AlexCoding\w3resource\Basic\15. Remove Character by Index\obj\Debug\net10.0\15. Remove Character by Index.csproj.CoreCompileInputs.cache
+C:\AlexCoding\w3resource\Basic\15. Remove Character by Index\obj\Debug\net10.0\15. Remove Character by Index.dll
+C:\AlexCoding\w3resource\Basic\15. Remove Character by Index\obj\Debug\net10.0\refint\15. Remove Character by Index.dll
+C:\AlexCoding\w3resource\Basic\15. Remove Character by Index\obj\Debug\net10.0\15. Remove Character by Index.pdb
+C:\AlexCoding\w3resource\Basic\15. Remove Character by Index\obj\Debug\net10.0\15. Remove Character by Index.genruntimeconfig.cache
+C:\AlexCoding\w3resource\Basic\15. Remove Character by Index\obj\Debug\net10.0\ref\15. Remove Character by Index.dll

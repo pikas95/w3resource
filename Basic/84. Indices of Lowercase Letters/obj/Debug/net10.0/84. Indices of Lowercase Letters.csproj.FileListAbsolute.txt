@@ -1,0 +1,14 @@
+C:\AlexCoding\w3resource\Basic\84. Indices of Lowercase Letters\bin\Debug\net10.0\84. Indices of Lowercase Letters.exe
+C:\AlexCoding\w3resource\Basic\84. Indices of Lowercase Letters\bin\Debug\net10.0\84. Indices of Lowercase Letters.deps.json
+C:\AlexCoding\w3resource\Basic\84. Indices of Lowercase Letters\bin\Debug\net10.0\84. Indices of Lowercase Letters.runtimeconfig.json
+C:\AlexCoding\w3resource\Basic\84. Indices of Lowercase Letters\bin\Debug\net10.0\84. Indices of Lowercase Letters.dll
+C:\AlexCoding\w3resource\Basic\84. Indices of Lowercase Letters\bin\Debug\net10.0\84. Indices of Lowercase Letters.pdb
+C:\AlexCoding\w3resource\Basic\84. Indices of Lowercase Letters\obj\Debug\net10.0\84. Indices of Lowercase Letters.GeneratedMSBuildEditorConfig.editorconfig
+C:\AlexCoding\w3resource\Basic\84. Indices of Lowercase Letters\obj\Debug\net10.0\84. Indices of Lowercase Letters.AssemblyInfoInputs.cache
+C:\AlexCoding\w3resource\Basic\84. Indices of Lowercase Letters\obj\Debug\net10.0\84. Indices of Lowercase Letters.AssemblyInfo.cs
+C:\AlexCoding\w3resource\Basic\84. Indices of Lowercase Letters\obj\Debug\net10.0\84. Indices of Lowercase Letters.csproj.CoreCompileInputs.cache
+C:\AlexCoding\w3resource\Basic\84. Indices of Lowercase Letters\obj\Debug\net10.0\84. Indices of Lowercase Letters.dll
+C:\AlexCoding\w3resource\Basic\84. Indices of Lowercase Letters\obj\Debug\net10.0\refint\84. Indices of Lowercase Letters.dll
+C:\AlexCoding\w3resource\Basic\84. Indices of Lowercase Letters\obj\Debug\net10.0\84. Indices of Lowercase Letters.pdb
+C:\AlexCoding\w3resource\Basic\84. Indices of Lowercase Letters\obj\Debug\net10.0\84. Indices of Lowercase Letters.genruntimeconfig.cache
+C:\AlexCoding\w3resource\Basic\84. Indices of Lowercase Letters\obj\Debug\net10.0\ref\84. Indices of Lowercase Letters.dll

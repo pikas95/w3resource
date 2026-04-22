@@ -1,0 +1,14 @@
+C:\AlexCoding\w3resource\Basic\16. Swap First and Last Characters\bin\Debug\net10.0\16. Swap First and Last Characters.exe
+C:\AlexCoding\w3resource\Basic\16. Swap First and Last Characters\bin\Debug\net10.0\16. Swap First and Last Characters.deps.json
+C:\AlexCoding\w3resource\Basic\16. Swap First and Last Characters\bin\Debug\net10.0\16. Swap First and Last Characters.runtimeconfig.json
+C:\AlexCoding\w3resource\Basic\16. Swap First and Last Characters\bin\Debug\net10.0\16. Swap First and Last Characters.dll
+C:\AlexCoding\w3resource\Basic\16. Swap First and Last Characters\bin\Debug\net10.0\16. Swap First and Last Characters.pdb
+C:\AlexCoding\w3resource\Basic\16. Swap First and Last Characters\obj\Debug\net10.0\16. Swap First and Last Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\AlexCoding\w3resource\Basic\16. Swap First and Last Characters\obj\Debug\net10.0\16. Swap First and Last Characters.AssemblyInfoInputs.cache
+C:\AlexCoding\w3resource\Basic\16. Swap First and Last Characters\obj\Debug\net10.0\16. Swap First and Last Characters.AssemblyInfo.cs
+C:\AlexCoding\w3resource\Basic\16. Swap First and Last Characters\obj\Debug\net10.0\16. Swap First and Last Characters.csproj.CoreCompileInputs.cache
+C:\AlexCoding\w3resource\Basic\16. Swap First and Last Characters\obj\Debug\net10.0\16. Swap First and Last Characters.dll
+C:\AlexCoding\w3resource\Basic\16. Swap First and Last Characters\obj\Debug\net10.0\refint\16. Swap First and Last Characters.dll
+C:\AlexCoding\w3resource\Basic\16. Swap First and Last Characters\obj\Debug\net10.0\16. Swap First and Last Characters.pdb
+C:\AlexCoding\w3resource\Basic\16. Swap First and Last Characters\obj\Debug\net10.0\16. Swap First and Last Characters.genruntimeconfig.cache
+C:\AlexCoding\w3resource\Basic\16. Swap First and Last Characters\obj\Debug\net10.0\ref\16. Swap First and Last Characters.dll

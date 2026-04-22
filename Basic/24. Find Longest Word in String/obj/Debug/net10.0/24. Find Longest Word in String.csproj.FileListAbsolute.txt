@@ -1,0 +1,14 @@
+C:\AlexCoding\w3resource\Basic\24. Find Longest Word in String\bin\Debug\net10.0\24. Find Longest Word in String.exe
+C:\AlexCoding\w3resource\Basic\24. Find Longest Word in String\bin\Debug\net10.0\24. Find Longest Word in String.deps.json
+C:\AlexCoding\w3resource\Basic\24. Find Longest Word in String\bin\Debug\net10.0\24. Find Longest Word in String.runtimeconfig.json
+C:\AlexCoding\w3resource\Basic\24. Find Longest Word in String\bin\Debug\net10.0\24. Find Longest Word in String.dll
+C:\AlexCoding\w3resource\Basic\24. Find Longest Word in String\bin\Debug\net10.0\24. Find Longest Word in String.pdb
+C:\AlexCoding\w3resource\Basic\24. Find Longest Word in String\obj\Debug\net10.0\24. Find Longest Word in String.GeneratedMSBuildEditorConfig.editorconfig
+C:\AlexCoding\w3resource\Basic\24. Find Longest Word in String\obj\Debug\net10.0\24. Find Longest Word in String.AssemblyInfoInputs.cache
+C:\AlexCoding\w3resource\Basic\24. Find Longest Word in String\obj\Debug\net10.0\24. Find Longest Word in String.AssemblyInfo.cs
+C:\AlexCoding\w3resource\Basic\24. Find Longest Word in String\obj\Debug\net10.0\24. Find Longest Word in String.csproj.CoreCompileInputs.cache
+C:\AlexCoding\w3resource\Basic\24. Find Longest Word in String\obj\Debug\net10.0\24. Find Longest Word in String.dll
+C:\AlexCoding\w3resource\Basic\24. Find Longest Word in String\obj\Debug\net10.0\refint\24. Find Longest Word in String.dll
+C:\AlexCoding\w3resource\Basic\24. Find Longest Word in String\obj\Debug\net10.0\24. Find Longest Word in String.pdb
+C:\AlexCoding\w3resource\Basic\24. Find Longest Word in String\obj\Debug\net10.0\24. Find Longest Word in String.genruntimeconfig.cache
+C:\AlexCoding\w3resource\Basic\24. Find Longest Word in String\obj\Debug\net10.0\ref\24. Find Longest Word in String.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AlexCoding\\w3resource\\Basic\\80. Convert Array Elements to Strings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01D6BB1D-73A8-47E0-9492-D0A3D16A1980}|80. Convert Array Elements to Strings.csproj|c:\\alexcoding\\w3resource\\basic\\80. convert array elements to strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D6BB1D-73A8-47E0-9492-D0A3D16A1980}|80. Convert Array Elements to Strings.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\AlexCoding\\w3resource\\Basic\\80. Convert Array Elements to Strings\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\AlexCoding\\w3resource\\Basic\\80. Convert Array Elements to Strings\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T14:10:38.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

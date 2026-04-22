@@ -1,0 +1,14 @@
+C:\AlexCoding\w3resource\Basic\80. Convert Array Elements to Strings\bin\Debug\net10.0\80. Convert Array Elements to Strings.exe
+C:\AlexCoding\w3resource\Basic\80. Convert Array Elements to Strings\bin\Debug\net10.0\80. Convert Array Elements to Strings.deps.json
+C:\AlexCoding\w3resource\Basic\80. Convert Array Elements to Strings\bin\Debug\net10.0\80. Convert Array Elements to Strings.runtimeconfig.json
+C:\AlexCoding\w3resource\Basic\80. Convert Array Elements to Strings\bin\Debug\net10.0\80. Convert Array Elements to Strings.dll
+C:\AlexCoding\w3resource\Basic\80. Convert Array Elements to Strings\bin\Debug\net10.0\80. Convert Array Elements to Strings.pdb
+C:\AlexCoding\w3resource\Basic\80. Convert Array Elements to Strings\obj\Debug\net10.0\80. Convert Array Elements to Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\AlexCoding\w3resource\Basic\80. Convert Array Elements to Strings\obj\Debug\net10.0\80. Convert Array Elements to Strings.AssemblyInfoInputs.cache
+C:\AlexCoding\w3resource\Basic\80. Convert Array Elements to Strings\obj\Debug\net10.0\80. Convert Array Elements to Strings.AssemblyInfo.cs
+C:\AlexCoding\w3resource\Basic\80. Convert Array Elements to Strings\obj\Debug\net10.0\80. Convert Array Elements to Strings.csproj.CoreCompileInputs.cache
+C:\AlexCoding\w3resource\Basic\80. Convert Array Elements to Strings\obj\Debug\net10.0\80. Convert Array Elements to Strings.dll
+C:\AlexCoding\w3resource\Basic\80. Convert Array Elements to Strings\obj\Debug\net10.0\refint\80. Convert Array Elements to Strings.dll
+C:\AlexCoding\w3resource\Basic\80. Convert Array Elements to Strings\obj\Debug\net10.0\80. Convert Array Elements to Strings.pdb
+C:\AlexCoding\w3resource\Basic\80. Convert Array Elements to Strings\obj\Debug\net10.0\80. Convert Array Elements to Strings.genruntimeconfig.cache
+C:\AlexCoding\w3resource\Basic\80. Convert Array Elements to Strings\obj\Debug\net10.0\ref\80. Convert Array Elements to Strings.dll
