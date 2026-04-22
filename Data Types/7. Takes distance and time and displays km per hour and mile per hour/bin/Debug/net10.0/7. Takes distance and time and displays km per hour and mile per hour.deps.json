@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "7. Takes distance and time and displays km per hour and mile per hour/1.0.0": {
+        "runtime": {
+          "7. Takes distance and time and displays km per hour and mile per hour.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "7. Takes distance and time and displays km per hour and mile per hour/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

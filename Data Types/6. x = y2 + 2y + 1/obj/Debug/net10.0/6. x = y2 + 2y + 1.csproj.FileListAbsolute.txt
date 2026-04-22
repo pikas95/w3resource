@@ -1,0 +1,15 @@
+C:\AlexCoding\w3resource\Data Types\6. x = y2 + 2y + 1\bin\Debug\net10.0\6. x = y2 + 2y + 1.exe
+C:\AlexCoding\w3resource\Data Types\6. x = y2 + 2y + 1\bin\Debug\net10.0\6. x = y2 + 2y + 1.deps.json
+C:\AlexCoding\w3resource\Data Types\6. x = y2 + 2y + 1\bin\Debug\net10.0\6. x = y2 + 2y + 1.runtimeconfig.json
+C:\AlexCoding\w3resource\Data Types\6. x = y2 + 2y + 1\bin\Debug\net10.0\6. x = y2 + 2y + 1.dll
+C:\AlexCoding\w3resource\Data Types\6. x = y2 + 2y + 1\bin\Debug\net10.0\6. x = y2 + 2y + 1.pdb
+C:\AlexCoding\w3resource\Data Types\6. x = y2 + 2y + 1\obj\Debug\net10.0\6. x = y2 + 2y + 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\AlexCoding\w3resource\Data Types\6. x = y2 + 2y + 1\obj\Debug\net10.0\6. x = y2 + 2y + 1.AssemblyInfoInputs.cache
+C:\AlexCoding\w3resource\Data Types\6. x = y2 + 2y + 1\obj\Debug\net10.0\6. x = y2 + 2y + 1.AssemblyInfo.cs
+C:\AlexCoding\w3resource\Data Types\6. x = y2 + 2y + 1\obj\Debug\net10.0\6. x = y2 + 2y + 1.csproj.CoreCompileInputs.cache
+C:\AlexCoding\w3resource\Data Types\6. x = y2 + 2y + 1\obj\Debug\net10.0\6. x = y2 + 2y + 1.sourcelink.json
+C:\AlexCoding\w3resource\Data Types\6. x = y2 + 2y + 1\obj\Debug\net10.0\6. x = y2 + 2y + 1.dll
+C:\AlexCoding\w3resource\Data Types\6. x = y2 + 2y + 1\obj\Debug\net10.0\refint\6. x = y2 + 2y + 1.dll
+C:\AlexCoding\w3resource\Data Types\6. x = y2 + 2y + 1\obj\Debug\net10.0\6. x = y2 + 2y + 1.pdb
+C:\AlexCoding\w3resource\Data Types\6. x = y2 + 2y + 1\obj\Debug\net10.0\6. x = y2 + 2y + 1.genruntimeconfig.cache
+C:\AlexCoding\w3resource\Data Types\6. x = y2 + 2y + 1\obj\Debug\net10.0\ref\6. x = y2 + 2y + 1.dll

@@ -1,0 +1,15 @@
+C:\AlexCoding\w3resource\Data Types\8. Takes sphere radius and displays surface and volume\bin\Debug\net10.0\8. Takes sphere radius and displays surface and volume.exe
+C:\AlexCoding\w3resource\Data Types\8. Takes sphere radius and displays surface and volume\bin\Debug\net10.0\8. Takes sphere radius and displays surface and volume.deps.json
+C:\AlexCoding\w3resource\Data Types\8. Takes sphere radius and displays surface and volume\bin\Debug\net10.0\8. Takes sphere radius and displays surface and volume.runtimeconfig.json
+C:\AlexCoding\w3resource\Data Types\8. Takes sphere radius and displays surface and volume\bin\Debug\net10.0\8. Takes sphere radius and displays surface and volume.dll
+C:\AlexCoding\w3resource\Data Types\8. Takes sphere radius and displays surface and volume\bin\Debug\net10.0\8. Takes sphere radius and displays surface and volume.pdb
+C:\AlexCoding\w3resource\Data Types\8. Takes sphere radius and displays surface and volume\obj\Debug\net10.0\8. Takes sphere radius and displays surface and volume.GeneratedMSBuildEditorConfig.editorconfig
+C:\AlexCoding\w3resource\Data Types\8. Takes sphere radius and displays surface and volume\obj\Debug\net10.0\8. Takes sphere radius and displays surface and volume.AssemblyInfoInputs.cache
+C:\AlexCoding\w3resource\Data Types\8. Takes sphere radius and displays surface and volume\obj\Debug\net10.0\8. Takes sphere radius and displays surface and volume.AssemblyInfo.cs
+C:\AlexCoding\w3resource\Data Types\8. Takes sphere radius and displays surface and volume\obj\Debug\net10.0\8. Takes sphere radius and displays surface and volume.csproj.CoreCompileInputs.cache
+C:\AlexCoding\w3resource\Data Types\8. Takes sphere radius and displays surface and volume\obj\Debug\net10.0\8. Takes sphere radius and displays surface and volume.sourcelink.json
+C:\AlexCoding\w3resource\Data Types\8. Takes sphere radius and displays surface and volume\obj\Debug\net10.0\8. Takes sphere radius and displays surface and volume.dll
+C:\AlexCoding\w3resource\Data Types\8. Takes sphere radius and displays surface and volume\obj\Debug\net10.0\refint\8. Takes sphere radius and displays surface and volume.dll
+C:\AlexCoding\w3resource\Data Types\8. Takes sphere radius and displays surface and volume\obj\Debug\net10.0\8. Takes sphere radius and displays surface and volume.pdb
+C:\AlexCoding\w3resource\Data Types\8. Takes sphere radius and displays surface and volume\obj\Debug\net10.0\8. Takes sphere radius and displays surface and volume.genruntimeconfig.cache
+C:\AlexCoding\w3resource\Data Types\8. Takes sphere radius and displays surface and volume\obj\Debug\net10.0\ref\8. Takes sphere radius and displays surface and volume.dll

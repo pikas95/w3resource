@@ -1,0 +1,15 @@
+C:\AlexCoding\w3resource\Data Types\7. Takes distance and time and displays km per hour and mile per hour\bin\Debug\net10.0\7. Takes distance and time and displays km per hour and mile per hour.exe
+C:\AlexCoding\w3resource\Data Types\7. Takes distance and time and displays km per hour and mile per hour\bin\Debug\net10.0\7. Takes distance and time and displays km per hour and mile per hour.deps.json
+C:\AlexCoding\w3resource\Data Types\7. Takes distance and time and displays km per hour and mile per hour\bin\Debug\net10.0\7. Takes distance and time and displays km per hour and mile per hour.runtimeconfig.json
+C:\AlexCoding\w3resource\Data Types\7. Takes distance and time and displays km per hour and mile per hour\bin\Debug\net10.0\7. Takes distance and time and displays km per hour and mile per hour.dll
+C:\AlexCoding\w3resource\Data Types\7. Takes distance and time and displays km per hour and mile per hour\bin\Debug\net10.0\7. Takes distance and time and displays km per hour and mile per hour.pdb
+C:\AlexCoding\w3resource\Data Types\7. Takes distance and time and displays km per hour and mile per hour\obj\Debug\net10.0\7. Takes distance and time and displays km per hour and mile per hour.GeneratedMSBuildEditorConfig.editorconfig
+C:\AlexCoding\w3resource\Data Types\7. Takes distance and time and displays km per hour and mile per hour\obj\Debug\net10.0\7. Takes distance and time and displays km per hour and mile per hour.AssemblyInfoInputs.cache
+C:\AlexCoding\w3resource\Data Types\7. Takes distance and time and displays km per hour and mile per hour\obj\Debug\net10.0\7. Takes distance and time and displays km per hour and mile per hour.AssemblyInfo.cs
+C:\AlexCoding\w3resource\Data Types\7. Takes distance and time and displays km per hour and mile per hour\obj\Debug\net10.0\7. Takes distance and time and displays km per hour and mile per hour.csproj.CoreCompileInputs.cache
+C:\AlexCoding\w3resource\Data Types\7. Takes distance and time and displays km per hour and mile per hour\obj\Debug\net10.0\7. Takes distance and time and displays km per hour and mile per hour.sourcelink.json
+C:\AlexCoding\w3resource\Data Types\7. Takes distance and time and displays km per hour and mile per hour\obj\Debug\net10.0\7. Takes distance and time and displays km per hour and mile per hour.dll
+C:\AlexCoding\w3resource\Data Types\7. Takes distance and time and displays km per hour and mile per hour\obj\Debug\net10.0\refint\7. Takes distance and time and displays km per hour and mile per hour.dll
+C:\AlexCoding\w3resource\Data Types\7. Takes distance and time and displays km per hour and mile per hour\obj\Debug\net10.0\7. Takes distance and time and displays km per hour and mile per hour.pdb
+C:\AlexCoding\w3resource\Data Types\7. Takes distance and time and displays km per hour and mile per hour\obj\Debug\net10.0\7. Takes distance and time and displays km per hour and mile per hour.genruntimeconfig.cache
+C:\AlexCoding\w3resource\Data Types\7. Takes distance and time and displays km per hour and mile per hour\obj\Debug\net10.0\ref\7. Takes distance and time and displays km per hour and mile per hour.dll

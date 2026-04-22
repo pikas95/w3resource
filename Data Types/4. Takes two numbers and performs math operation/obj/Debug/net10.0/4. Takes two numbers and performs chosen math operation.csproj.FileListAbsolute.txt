@@ -1,0 +1,15 @@
+C:\AlexCoding\w3resource\Data Types\4. Takes two numbers and performs math operation\bin\Debug\net10.0\4. Takes two numbers and performs chosen math operation.exe
+C:\AlexCoding\w3resource\Data Types\4. Takes two numbers and performs math operation\bin\Debug\net10.0\4. Takes two numbers and performs chosen math operation.deps.json
+C:\AlexCoding\w3resource\Data Types\4. Takes two numbers and performs math operation\bin\Debug\net10.0\4. Takes two numbers and performs chosen math operation.runtimeconfig.json
+C:\AlexCoding\w3resource\Data Types\4. Takes two numbers and performs math operation\bin\Debug\net10.0\4. Takes two numbers and performs chosen math operation.dll
+C:\AlexCoding\w3resource\Data Types\4. Takes two numbers and performs math operation\bin\Debug\net10.0\4. Takes two numbers and performs chosen math operation.pdb
+C:\AlexCoding\w3resource\Data Types\4. Takes two numbers and performs math operation\obj\Debug\net10.0\4. Takes two numbers and performs chosen math operation.GeneratedMSBuildEditorConfig.editorconfig
+C:\AlexCoding\w3resource\Data Types\4. Takes two numbers and performs math operation\obj\Debug\net10.0\4. Takes two numbers and performs chosen math operation.AssemblyInfoInputs.cache
+C:\AlexCoding\w3resource\Data Types\4. Takes two numbers and performs math operation\obj\Debug\net10.0\4. Takes two numbers and performs chosen math operation.AssemblyInfo.cs
+C:\AlexCoding\w3resource\Data Types\4. Takes two numbers and performs math operation\obj\Debug\net10.0\4. Takes two numbers and performs chosen math operation.csproj.CoreCompileInputs.cache
+C:\AlexCoding\w3resource\Data Types\4. Takes two numbers and performs math operation\obj\Debug\net10.0\4. Takes two numbers and performs chosen math operation.sourcelink.json
+C:\AlexCoding\w3resource\Data Types\4. Takes two numbers and performs math operation\obj\Debug\net10.0\4. Takes two numbers and performs chosen math operation.dll
+C:\AlexCoding\w3resource\Data Types\4. Takes two numbers and performs math operation\obj\Debug\net10.0\refint\4. Takes two numbers and performs chosen math operation.dll
+C:\AlexCoding\w3resource\Data Types\4. Takes two numbers and performs math operation\obj\Debug\net10.0\4. Takes two numbers and performs chosen math operation.pdb
+C:\AlexCoding\w3resource\Data Types\4. Takes two numbers and performs math operation\obj\Debug\net10.0\4. Takes two numbers and performs chosen math operation.genruntimeconfig.cache
+C:\AlexCoding\w3resource\Data Types\4. Takes two numbers and performs math operation\obj\Debug\net10.0\ref\4. Takes two numbers and performs chosen math operation.dll

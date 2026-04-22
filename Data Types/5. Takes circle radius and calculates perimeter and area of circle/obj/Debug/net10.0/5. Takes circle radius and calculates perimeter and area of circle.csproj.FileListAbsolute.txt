@@ -1,0 +1,15 @@
+C:\AlexCoding\w3resource\Data Types\5. Takes circle radius and calculates perimeter and area of circle\bin\Debug\net10.0\5. Takes circle radius and calculates perimeter and area of circle.exe
+C:\AlexCoding\w3resource\Data Types\5. Takes circle radius and calculates perimeter and area of circle\bin\Debug\net10.0\5. Takes circle radius and calculates perimeter and area of circle.deps.json
+C:\AlexCoding\w3resource\Data Types\5. Takes circle radius and calculates perimeter and area of circle\bin\Debug\net10.0\5. Takes circle radius and calculates perimeter and area of circle.runtimeconfig.json
+C:\AlexCoding\w3resource\Data Types\5. Takes circle radius and calculates perimeter and area of circle\bin\Debug\net10.0\5. Takes circle radius and calculates perimeter and area of circle.dll
+C:\AlexCoding\w3resource\Data Types\5. Takes circle radius and calculates perimeter and area of circle\bin\Debug\net10.0\5. Takes circle radius and calculates perimeter and area of circle.pdb
+C:\AlexCoding\w3resource\Data Types\5. Takes circle radius and calculates perimeter and area of circle\obj\Debug\net10.0\5. Takes circle radius and calculates perimeter and area of circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\AlexCoding\w3resource\Data Types\5. Takes circle radius and calculates perimeter and area of circle\obj\Debug\net10.0\5. Takes circle radius and calculates perimeter and area of circle.AssemblyInfoInputs.cache
+C:\AlexCoding\w3resource\Data Types\5. Takes circle radius and calculates perimeter and area of circle\obj\Debug\net10.0\5. Takes circle radius and calculates perimeter and area of circle.AssemblyInfo.cs
+C:\AlexCoding\w3resource\Data Types\5. Takes circle radius and calculates perimeter and area of circle\obj\Debug\net10.0\5. Takes circle radius and calculates perimeter and area of circle.csproj.CoreCompileInputs.cache
+C:\AlexCoding\w3resource\Data Types\5. Takes circle radius and calculates perimeter and area of circle\obj\Debug\net10.0\5. Takes circle radius and calculates perimeter and area of circle.sourcelink.json
+C:\AlexCoding\w3resource\Data Types\5. Takes circle radius and calculates perimeter and area of circle\obj\Debug\net10.0\5. Takes circle radius and calculates perimeter and area of circle.dll
+C:\AlexCoding\w3resource\Data Types\5. Takes circle radius and calculates perimeter and area of circle\obj\Debug\net10.0\refint\5. Takes circle radius and calculates perimeter and area of circle.dll
+C:\AlexCoding\w3resource\Data Types\5. Takes circle radius and calculates perimeter and area of circle\obj\Debug\net10.0\5. Takes circle radius and calculates perimeter and area of circle.pdb
+C:\AlexCoding\w3resource\Data Types\5. Takes circle radius and calculates perimeter and area of circle\obj\Debug\net10.0\5. Takes circle radius and calculates perimeter and area of circle.genruntimeconfig.cache
+C:\AlexCoding\w3resource\Data Types\5. Takes circle radius and calculates perimeter and area of circle\obj\Debug\net10.0\ref\5. Takes circle radius and calculates perimeter and area of circle.dll
