@@ -1,0 +1,15 @@
+C:\AlexCoding\w3resource\Data Types\9. Checks if char is a vowel a digit or any other symbol\bin\Debug\net10.0\9. Checks if char is a vowel a digit or any other symbol.exe
+C:\AlexCoding\w3resource\Data Types\9. Checks if char is a vowel a digit or any other symbol\bin\Debug\net10.0\9. Checks if char is a vowel a digit or any other symbol.deps.json
+C:\AlexCoding\w3resource\Data Types\9. Checks if char is a vowel a digit or any other symbol\bin\Debug\net10.0\9. Checks if char is a vowel a digit or any other symbol.runtimeconfig.json
+C:\AlexCoding\w3resource\Data Types\9. Checks if char is a vowel a digit or any other symbol\bin\Debug\net10.0\9. Checks if char is a vowel a digit or any other symbol.dll
+C:\AlexCoding\w3resource\Data Types\9. Checks if char is a vowel a digit or any other symbol\bin\Debug\net10.0\9. Checks if char is a vowel a digit or any other symbol.pdb
+C:\AlexCoding\w3resource\Data Types\9. Checks if char is a vowel a digit or any other symbol\obj\Debug\net10.0\9. Checks if char is a vowel a digit or any other symbol.GeneratedMSBuildEditorConfig.editorconfig
+C:\AlexCoding\w3resource\Data Types\9. Checks if char is a vowel a digit or any other symbol\obj\Debug\net10.0\9. Checks if char is a vowel a digit or any other symbol.AssemblyInfoInputs.cache
+C:\AlexCoding\w3resource\Data Types\9. Checks if char is a vowel a digit or any other symbol\obj\Debug\net10.0\9. Checks if char is a vowel a digit or any other symbol.AssemblyInfo.cs
+C:\AlexCoding\w3resource\Data Types\9. Checks if char is a vowel a digit or any other symbol\obj\Debug\net10.0\9. Checks if char is a vowel a digit or any other symbol.csproj.CoreCompileInputs.cache
+C:\AlexCoding\w3resource\Data Types\9. Checks if char is a vowel a digit or any other symbol\obj\Debug\net10.0\9. Checks if char is a vowel a digit or any other symbol.sourcelink.json
+C:\AlexCoding\w3resource\Data Types\9. Checks if char is a vowel a digit or any other symbol\obj\Debug\net10.0\9. Checks if char is a vowel a digit or any other symbol.dll
+C:\AlexCoding\w3resource\Data Types\9. Checks if char is a vowel a digit or any other symbol\obj\Debug\net10.0\refint\9. Checks if char is a vowel a digit or any other symbol.dll
+C:\AlexCoding\w3resource\Data Types\9. Checks if char is a vowel a digit or any other symbol\obj\Debug\net10.0\9. Checks if char is a vowel a digit or any other symbol.pdb
+C:\AlexCoding\w3resource\Data Types\9. Checks if char is a vowel a digit or any other symbol\obj\Debug\net10.0\9. Checks if char is a vowel a digit or any other symbol.genruntimeconfig.cache
+C:\AlexCoding\w3resource\Data Types\9. Checks if char is a vowel a digit or any other symbol\obj\Debug\net10.0\ref\9. Checks if char is a vowel a digit or any other symbol.dll

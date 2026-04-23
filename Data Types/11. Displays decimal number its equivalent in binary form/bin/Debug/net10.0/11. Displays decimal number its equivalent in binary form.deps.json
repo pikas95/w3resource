@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "11. Displays decimal number its equivalent in binary form/1.0.0": {
+        "runtime": {
+          "11. Displays decimal number its equivalent in binary form.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "11. Displays decimal number its equivalent in binary form/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

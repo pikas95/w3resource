@@ -1,0 +1,15 @@
+C:\AlexCoding\w3resource\Data Types\11. Displays decimal number its equivalent in binary form\bin\Debug\net10.0\11. Displays decimal number its equivalent in binary form.exe
+C:\AlexCoding\w3resource\Data Types\11. Displays decimal number its equivalent in binary form\bin\Debug\net10.0\11. Displays decimal number its equivalent in binary form.deps.json
+C:\AlexCoding\w3resource\Data Types\11. Displays decimal number its equivalent in binary form\bin\Debug\net10.0\11. Displays decimal number its equivalent in binary form.runtimeconfig.json
+C:\AlexCoding\w3resource\Data Types\11. Displays decimal number its equivalent in binary form\bin\Debug\net10.0\11. Displays decimal number its equivalent in binary form.dll
+C:\AlexCoding\w3resource\Data Types\11. Displays decimal number its equivalent in binary form\bin\Debug\net10.0\11. Displays decimal number its equivalent in binary form.pdb
+C:\AlexCoding\w3resource\Data Types\11. Displays decimal number its equivalent in binary form\obj\Debug\net10.0\11. Displays decimal number its equivalent in binary form.GeneratedMSBuildEditorConfig.editorconfig
+C:\AlexCoding\w3resource\Data Types\11. Displays decimal number its equivalent in binary form\obj\Debug\net10.0\11. Displays decimal number its equivalent in binary form.AssemblyInfoInputs.cache
+C:\AlexCoding\w3resource\Data Types\11. Displays decimal number its equivalent in binary form\obj\Debug\net10.0\11. Displays decimal number its equivalent in binary form.AssemblyInfo.cs
+C:\AlexCoding\w3resource\Data Types\11. Displays decimal number its equivalent in binary form\obj\Debug\net10.0\11. Displays decimal number its equivalent in binary form.csproj.CoreCompileInputs.cache
+C:\AlexCoding\w3resource\Data Types\11. Displays decimal number its equivalent in binary form\obj\Debug\net10.0\11. Displays decimal number its equivalent in binary form.sourcelink.json
+C:\AlexCoding\w3resource\Data Types\11. Displays decimal number its equivalent in binary form\obj\Debug\net10.0\11. Displays decimal number its equivalent in binary form.dll
+C:\AlexCoding\w3resource\Data Types\11. Displays decimal number its equivalent in binary form\obj\Debug\net10.0\refint\11. Displays decimal number its equivalent in binary form.dll
+C:\AlexCoding\w3resource\Data Types\11. Displays decimal number its equivalent in binary form\obj\Debug\net10.0\11. Displays decimal number its equivalent in binary form.pdb
+C:\AlexCoding\w3resource\Data Types\11. Displays decimal number its equivalent in binary form\obj\Debug\net10.0\11. Displays decimal number its equivalent in binary form.genruntimeconfig.cache
+C:\AlexCoding\w3resource\Data Types\11. Displays decimal number its equivalent in binary form\obj\Debug\net10.0\ref\11. Displays decimal number its equivalent in binary form.dll

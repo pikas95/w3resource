@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AlexCoding\\w3resource\\Data Types\\10. Returns true or false when both numbers are even or odd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D439F788-4805-4A83-BC41-36A4CD8E27CE}|10. Returns true or false when both numbers are even or odd.csproj|c:\\alexcoding\\w3resource\\data types\\10. returns true or false when both numbers are even or odd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D439F788-4805-4A83-BC41-36A4CD8E27CE}|10. Returns true or false when both numbers are even or odd.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\AlexCoding\\w3resource\\Data Types\\10. Returns true or false when both numbers are even or odd\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\AlexCoding\\w3resource\\Data Types\\10. Returns true or false when both numbers are even or odd\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T11:30:10.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

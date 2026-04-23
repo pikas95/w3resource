@@ -1,0 +1,15 @@
+C:\AlexCoding\w3resource\Data Types\10. Returns true or false when both numbers are even or odd\bin\Debug\net10.0\10. Returns true or false when both numbers are even or odd.exe
+C:\AlexCoding\w3resource\Data Types\10. Returns true or false when both numbers are even or odd\bin\Debug\net10.0\10. Returns true or false when both numbers are even or odd.deps.json
+C:\AlexCoding\w3resource\Data Types\10. Returns true or false when both numbers are even or odd\bin\Debug\net10.0\10. Returns true or false when both numbers are even or odd.runtimeconfig.json
+C:\AlexCoding\w3resource\Data Types\10. Returns true or false when both numbers are even or odd\bin\Debug\net10.0\10. Returns true or false when both numbers are even or odd.dll
+C:\AlexCoding\w3resource\Data Types\10. Returns true or false when both numbers are even or odd\bin\Debug\net10.0\10. Returns true or false when both numbers are even or odd.pdb
+C:\AlexCoding\w3resource\Data Types\10. Returns true or false when both numbers are even or odd\obj\Debug\net10.0\10. Returns true or false when both numbers are even or odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\AlexCoding\w3resource\Data Types\10. Returns true or false when both numbers are even or odd\obj\Debug\net10.0\10. Returns true or false when both numbers are even or odd.AssemblyInfoInputs.cache
+C:\AlexCoding\w3resource\Data Types\10. Returns true or false when both numbers are even or odd\obj\Debug\net10.0\10. Returns true or false when both numbers are even or odd.AssemblyInfo.cs
+C:\AlexCoding\w3resource\Data Types\10. Returns true or false when both numbers are even or odd\obj\Debug\net10.0\10. Returns true or false when both numbers are even or odd.csproj.CoreCompileInputs.cache
+C:\AlexCoding\w3resource\Data Types\10. Returns true or false when both numbers are even or odd\obj\Debug\net10.0\10. Returns true or false when both numbers are even or odd.sourcelink.json
+C:\AlexCoding\w3resource\Data Types\10. Returns true or false when both numbers are even or odd\obj\Debug\net10.0\10. Returns true or false when both numbers are even or odd.dll
+C:\AlexCoding\w3resource\Data Types\10. Returns true or false when both numbers are even or odd\obj\Debug\net10.0\refint\10. Returns true or false when both numbers are even or odd.dll
+C:\AlexCoding\w3resource\Data Types\10. Returns true or false when both numbers are even or odd\obj\Debug\net10.0\10. Returns true or false when both numbers are even or odd.pdb
+C:\AlexCoding\w3resource\Data Types\10. Returns true or false when both numbers are even or odd\obj\Debug\net10.0\10. Returns true or false when both numbers are even or odd.genruntimeconfig.cache
+C:\AlexCoding\w3resource\Data Types\10. Returns true or false when both numbers are even or odd\obj\Debug\net10.0\ref\10. Returns true or false when both numbers are even or odd.dll
